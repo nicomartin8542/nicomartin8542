@@ -62,10 +62,11 @@ Algunas de mis cualidades son:
 [![](https://github-readme-stats.vercel.app/api?username=nicomartin8542&show_icons=true&theme=react&hide_border=true&locale=es)](https://github.com/nicomartin8542)
 <br><br>
 
+
 ## 🤝 ¡No dudes en contactarme!
 
-<br>
-Si te gustaría colaborar en emocionantes proyectos, ¡no dudes en ponerte en contacto conmigo! Estoy abierto a nuevas oportunidades y listo para contribuir con mi energía y habilidades.
+Si estás buscando colaborar en proyectos interesantes, compartir ideas sobre tecnología o explorar nuevas oportunidades, estaré encantado de conversar. Siempre estoy abierto a nuevos desafíos y listo para aportar mis conocimientos y energía en equipos dinámicos.
+
 
 - 📧 **Correo**: nicomartin854@gmail.com
 - 💼 **LinkedIn**: Martín Nicolás (https://www.linkedin.com/in/jorge-nicolas-martin-708834187)
