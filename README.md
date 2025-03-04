@@ -9,10 +9,10 @@ Me considero autodidacta, siempre en busca de mejorar mis habilidades y estar al
 
 Algunas de mis cualidades son:
 
-- 🔹 **Colaborativo**: Me encanta trabajar en equipo y aportar al éxito colectivo.
-- 🔹 **Proactivo**: Disfruto enfrentar desafíos y proponer soluciones creativas.
-- 🔹 **Apasionado por la tecnología**: Siempre busco aprender algo nuevo y mejorar en lo que hago.
-- 🔹 **Mentor y compañero**: Creo en la importancia de compartir conocimientos y ayudar a otros en su camino profesional.
+🔹 **Colaborativo**: Me encanta trabajar en equipo y aportar al éxito colectivo.
+🔹 **Proactivo**: Disfruto enfrentar desafíos y proponer soluciones creativas.
+🔹 **Apasionado por la tecnología**: Siempre busco aprender algo nuevo y mejorar en lo que hago.
+🔹 **Mentor y compañero**: Creo en la importancia de compartir conocimientos y ayudar a otros en su camino profesional.
   <br><br>
 
 ## 🛠️ Tecnologías con las que trabajo
